@@ -1,0 +1,9 @@
+body{
+  transition: right 300ms ease;
+  width:30%;
+  margin:auto;
+}
+
+.color{
+  color:rgb(25, 136, 43);
+}

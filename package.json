@@ -1,0 +1,27 @@
+{
+  "name": "Spark",
+  "version": "0.0.1",
+  "description": "super simple front-end(basic) starter",
+  "author": "Stojan Peshov",
+  "license": "ISC",
+  "scripts": {
+
+  },
+  "devDependencies": {
+
+  },
+  "dependencies": {
+  "browser-sync": "latest",
+  "eslint": "latest",
+  "gulp-concat-css": "latest",
+  "gulp": "latest",
+  "gulp-concat": "latest",
+  "gulp-connect": "latest",
+  "gulp-jshint": "latest",
+  "gulp-util": "latest",
+  "bower": "latest",
+  "jshint": "latest"
+
+
+  }
+}
