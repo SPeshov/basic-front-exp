@@ -6,3 +6,5 @@
 3. Install the local requirements: `npm install`
 4. Install the Bower components: `bower install`
 5. Run locally: `gulp`
+
+gulp, browser-sync, jshint
